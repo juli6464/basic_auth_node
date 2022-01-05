@@ -11,4 +11,4 @@ node app.js<br>
 
 ## Execute program
 request from a browser: localhost:4000/auth<br>
-request from command line window: curl --user amy:passwd1232 http://localhost:3030/auth
+request from command line window: curl --user user:123456 http://localhost:4000/auth
