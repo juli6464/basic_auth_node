@@ -5,10 +5,10 @@ Basic login using nodejs and expressjs and basic-auth module
 https://www.codexpedia.com/node-js/node-js-basic-auth-in-express-js/
 
 ## Install
-sudo npm install express
-sudo npm install basic-auth
-node app.js
+sudo npm install express<br>
+sudo npm install basic-auth<br>
+node app.js<br>
 
-##Execute program
-request from a browser: localhost:4000/auth
+## Execute program
+request from a browser: localhost:4000/auth<br>
 request from command line window: curl --user amy:passwd1232 http://localhost:3030/auth
